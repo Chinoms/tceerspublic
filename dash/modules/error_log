@@ -1,0 +1,2 @@
+[28-Jul-2020 06:27:17 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'ceervdcg_dbadmin'@'localhost' (using password: YES) in /home/britnnik/tceers.com/classes/config.php on line 28
+[28-Jul-2020 06:27:18 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'ceervdcg_dbadmin'@'localhost' (using password: YES) in /home/britnnik/tceers.com/classes/config.php on line 28
