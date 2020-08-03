@@ -59,7 +59,7 @@ require_once("publicinc/header.php");
                     </div>
 
                     <div class="col-8">
-                        <h3><strong>Assoc. Prof. F. I. Ukozor</strong></h3>
+                        <h3><strong>Prof. F. I. Ukozor</strong></h3>
                         <p class="lead">Consultant 1</p>
 
                         <p>Ukozor F. I. is a professor of Science Education and an experienced teacher
@@ -86,7 +86,7 @@ require_once("publicinc/header.php");
                     </div>
 
                     <div class="col-8">
-                        <h3><strong>Ukwuoma Jason C.</strong></h3>
+                        <h3><strong>Dr. Ukwuoma Jason C.</strong></h3>
                         <p class="lead">Secretary/Website Manager</p>
 
                         <p>A specialist of document production and desktop publishing.
