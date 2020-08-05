@@ -59,6 +59,7 @@ require_once("publicinc/header.php");
                         <br>
                         <br>
                         <a href="signup.php" target="_blank"><button class="btn bg-info text-white">Signup</button></a>
+                        Can someone tell me why this isn't working?
                     </p-->
             </div>
         </div>
