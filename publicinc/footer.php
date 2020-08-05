@@ -20,7 +20,7 @@
 					</li>
 				  </ul>
 		  
-				  <p class="h5 mt-5">&copy; 2019 TCEERS</p>
+				  <p class="h5 mt-5">&copy; <?php echo date("Y"); ?> TCEERS</p>
 				</div>
 			  </div>
 			</div>
