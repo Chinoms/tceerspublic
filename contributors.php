@@ -54,12 +54,12 @@ require_once("publicinc/header.php");
                     </strong>
                 </p>
                 <p>
-                    <p class="text-justify bodytext"> To become a contributor, click on the button below to signup and
+                    <!--p class="text-justify bodytext"> To become a contributor, click on the button below to signup and
                         start publishing.
                         <br>
                         <br>
                         <a href="signup.php" target="_blank"><button class="btn bg-info text-white">Signup</button></a>
-                    </p>
+                    </p-->
             </div>
         </div>
     </div>
