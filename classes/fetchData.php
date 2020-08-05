@@ -55,6 +55,7 @@ class fetchData
         $checkSearchTerm = $conn->query("SELECT id, title, keywords, descr, 'ceers' as type FROM seers WHERE keywords LIKE '%" . $searchQuery . "%' OR title like '%" . $searchQuery . "%' OR descr LIKE '%" . $searchQuery . "%'");
         while ($searchArray = $checkSearchTerm->fetch_assoc()) {
             if (!empty($searchArray)) {
+                //"
                 echo "<div class='searchSpan'><a href='preview.php?id=" . $searchArray["id"] . "'><h3>" . $searchArray['title'] . "</h3></a>" . $searchArray['descr'] . "<br></div>";
             } else {
                 echo "Oops! Your search didn't return any results.";
