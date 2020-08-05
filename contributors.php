@@ -64,6 +64,7 @@ require_once("publicinc/header.php");
         </div>
     </div>
 </section>
+
 <?php
 require_once("publicinc/footer.php")
 ?>
