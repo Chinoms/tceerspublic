@@ -49,7 +49,8 @@ require_once("publicinc/header.php");
                     All fees will be paid via bank transfer, bank hall payment or electronically to the account below:
                     <br>
                     <strong>Acc. No. 1005096472<br>
-                        Acc. Name: Patrick M. Ogomaka
+                        Acc. Name: Patrick M. Ogomaka<br>
+                        Zenith Bank
                     </strong>
                 </p>
                 <p>
